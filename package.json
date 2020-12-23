@@ -16,15 +16,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dkhovrich/IAMPM-ApiDemoBackEnd.git"
+        "url": "git+https://github.com/IAMPM-tech/IAMPM-api-demo.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/dkhovrich/IAMPM-ApiDemoBackEnd/issues"
+        "url": "https://github.com/IAMPM-tech/IAMPM-api-demo/issues"
     },
-    "homepage": "https://github.com/dkhovrich/IAMPM-ApiDemoBackEnd#readme",
+    "homepage": "https://github.com/IAMPM-tech/IAMPM-api-demo#readme",
     "dependencies": {
         "@types/cors": "^2.8.4",
         "@types/csv-parse": "^1.1.11",
