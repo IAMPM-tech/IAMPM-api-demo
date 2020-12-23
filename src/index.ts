@@ -1,3 +1,6 @@
+var mongoose = require(‘mongoose’);
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/iampm-tm-api-demo');
+
 import express, { Express } from 'express';
 import cors from 'cors';
 import passport from 'passport';
